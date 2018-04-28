@@ -1,0 +1,6 @@
+framework module XWNetWorkKit {
+  umbrella header "XWNetWorkKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
